@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "Matchday",
+    "slug": "matchday-live-scores",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "icon": "./assets/app-icon.png",
+    "splash": { "backgroundColor": "#f5f7f6" },
+    "assetBundlePatterns": ["**/*"],
+    "ios": { "supportsTablet": true, "bundleIdentifier": "com.matchday.livescores" },
+    "android": { "package": "com.matchday.livescores", "adaptiveIcon": { "foregroundImage": "./assets/adaptive-icon.png", "backgroundColor": "#0B3829" } },
+    "web": { "favicon": "./assets/app-icon.png" }
+  }
+}
